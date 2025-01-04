@@ -1,6 +1,6 @@
-# IPL Scraper
+# IPL Auction Scraper
 ### Overview
-The IPL Scraper is a Python-based tool for extracting IPL auction data from the official IPL website. Designed with scalability and modularity in mind, this project provides a clean interface for scraping, processing, and exporting auction data. It is packaged as a Python module for seamless integration into larger analytics pipelines.
+The IPL Auction Scraper is a Python-based tool for extracting IPL auction data from the official IPL website. Designed with scalability and modularity in mind, this project provides a clean interface for scraping, processing, and exporting auction data. It is packaged as a Python module for seamless integration into larger analytics pipelines.
 
 ### Features
 Web Scraping: Fetches IPL auction data using requests and BeautifulSoup.
